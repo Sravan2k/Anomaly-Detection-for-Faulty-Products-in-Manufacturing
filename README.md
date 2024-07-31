@@ -1,0 +1,1 @@
+# Anomaly-Detection-for-Faulty-Products-in-Manufacturing
