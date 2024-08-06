@@ -63,3 +63,8 @@ The pooling layer downsamples feature maps by extracting dominant features. This
 
 Fully connected layers are typically the final layers in a convolutional neural network. They receive flattened input from the preceding pooling layer. These layers introduce non-linearity through the use of activation functions like ReLU. The output layer often employs a softmax function to generate probability distributions for each possible class. The class with the highest probability is selected as the final prediction. 
 
+# Architecture
+
+A pre-trained ResNet-50 model is used. While the original model extracts 2048 features from its final layers, this architecture extracts features from intermediate layers. Specifically, the features from layer 2 and layer 3 are extracted using PyTorch's hook feature and concatenated, resulting in a 1536-dimensional feature vector. This combined feature vector is then input into the fully connected layers for model training. 
+![ResNet-50-architecture-26-shown-with-the-residual-units-the-size-of-the-filters-and](https://github.com/user-attachments/assets/fe74e5a8-61bf-4e41-8ae1-afca879381d5)
+
