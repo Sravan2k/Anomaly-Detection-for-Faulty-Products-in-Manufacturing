@@ -77,10 +77,10 @@ A statistical model is employed, where the Mean Squared Error (MSE) between a fe
 
 <img width="455" alt="AOC-ROC curve" src="https://github.com/user-attachments/assets/6e44261a-0722-4a28-ae33-cafb29c44f27">
 
-Area under curve and 45 degree diagonal will be same as the AUC-ROC (or) accuracy
+Area under curve and 45 degree diagonal will be same as the AUC-ROC
 Accuracy = 0.9839486356340289
 
-
+We get the best optimal threshold by the F1-score = 0.025749897584319115
 
 **Confusion matrix**
    
