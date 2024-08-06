@@ -78,10 +78,21 @@ A statistical model is employed, where the Mean Squared Error (MSE) between a fe
 <img width="455" alt="AOC-ROC curve" src="https://github.com/user-attachments/assets/6e44261a-0722-4a28-ae33-cafb29c44f27">
 
 Area under curve and 45 degree diagonal will be same as the AUC-ROC
-Accuracy = 0.9839486356340289
+AUC-ROC Score = 0.9839486356340289
 
 We get the best optimal threshold by the F1-score = 0.025749897584319115
 
 **Confusion matrix**
    
    <img width="421" alt="confussion_matrix" src="https://github.com/user-attachments/assets/c60f9d7d-350c-4c69-95ae-6994cfccc566">
+
+# Test Samples
+<img width="884" alt="1" src="https://github.com/user-attachments/assets/153b7512-0ff9-4930-93ce-75166031a5f5">
+
+<img width="882" alt="2" src="https://github.com/user-attachments/assets/e09ffa66-9053-4096-b1dc-526972ce31f8">
+
+<img width="886" alt="3" src="https://github.com/user-attachments/assets/677d248c-5469-467a-823b-51e638f99271">
+
+<img width="883" alt="4" src="https://github.com/user-attachments/assets/78e05cf9-97be-4e72-ac6f-3002c23f86d3">
+
+<img width="884" alt="5" src="https://github.com/user-attachments/assets/60a2faea-cf4f-458c-95ab-5dcf066a09ba">
