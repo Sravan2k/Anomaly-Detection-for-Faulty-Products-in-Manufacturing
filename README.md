@@ -73,6 +73,15 @@ A statistical model is employed, where the Mean Squared Error (MSE) between a fe
 <img width="452" alt="gaussian_graph" src="https://github.com/user-attachments/assets/73cf695e-8793-46b5-8790-1ac5155d33a0">
 
 # Results
-Confusion matrix
+**ROC curve**
+
+<img width="455" alt="AOC-ROC curve" src="https://github.com/user-attachments/assets/6e44261a-0722-4a28-ae33-cafb29c44f27">
+
+Area under curve and 45 degree diagonal will be same as the AUC-ROC (or) accuracy
+Accuracy = 0.9839486356340289
+
+
+
+**Confusion matrix**
    
    <img width="421" alt="confussion_matrix" src="https://github.com/user-attachments/assets/c60f9d7d-350c-4c69-95ae-6994cfccc566">
