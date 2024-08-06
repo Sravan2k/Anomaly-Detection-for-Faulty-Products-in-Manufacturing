@@ -70,3 +70,4 @@ A pre-trained ResNet-50 model is used. While the original model extracts 2048 fe
 
 # Model
 A statistical model is employed, where the Mean Squared Error (MSE) between a feature and its reconstruction serves as the anomaly score. If this anomaly score exceeds a predefined threshold, a fault is indicated at that point. The distribution of anomaly scores often approximates a Gaussian curve, suggesting that a suitable threshold can be estimated as the mean plus three times the standard deviation. However, the optimal threshold can also be determined more precisely using the F1 score. 
+<img width="452" alt="gaussian_graph" src="https://github.com/user-attachments/assets/73cf695e-8793-46b5-8790-1ac5155d33a0">
