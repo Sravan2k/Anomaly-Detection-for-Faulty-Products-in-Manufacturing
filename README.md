@@ -96,3 +96,5 @@ We get the best optimal threshold by the F1-score = 0.025749897584319115
 <img width="883" alt="4" src="https://github.com/user-attachments/assets/78e05cf9-97be-4e72-ac6f-3002c23f86d3">
 
 <img width="884" alt="5" src="https://github.com/user-attachments/assets/60a2faea-cf4f-458c-95ab-5dcf066a09ba">
+
+<img width="849" alt="6" src="https://github.com/user-attachments/assets/74077396-bc8a-47d5-8167-c8c3000dc01b">
